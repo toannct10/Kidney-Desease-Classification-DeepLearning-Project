@@ -156,10 +156,4 @@ artifacts/*
 CT_KIDNEY_BINARY.zip
 
 # Dataset
-*.zip
-*.rar
-*.7z
-data/
-dataset/
-artifacts/data_ingestion/
-kidney_data/
+artifacts/data_ingestion/kidney_data/
